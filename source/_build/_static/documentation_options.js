@@ -1,5 +1,5 @@
 const DOCUMENTATION_OPTIONS = {
-    VERSION: '&gt; Author name(s): &lt;your name&gt;',
+    VERSION: '&gt; Author name(s): Azimil Gani Alam',
     LANGUAGE: '> Project release []: 0.1',
     COLLAPSE_INDEX: false,
     BUILDER: 'html',

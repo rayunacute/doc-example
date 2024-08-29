@@ -12,6 +12,14 @@ Welcome to > Separate source and build directories (y/n) [n]: <hit enter>'s docu
 
    some-feature.md
 
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Story of Malin Kundang:
+
+   story_1.md
+
+
 Indices and tables
 ==================
 
